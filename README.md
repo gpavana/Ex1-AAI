@@ -1,5 +1,5 @@
 <H1> Experiment 1 : Implementation of Bayesian Networks</H1>
-<H2>DATE:10-09-24</H2>
+<H2>DATE:</H2>
 <H3>Name : PAVANA.G</H3>
 <H3>Register No. 212222230105</H3>
 
